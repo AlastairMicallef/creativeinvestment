@@ -13,16 +13,15 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 </head>
 <body>
-    <div class="jumbotron">
+    <div class="jumbotron" style="">
         <h1 class="display-4">Creative Investment</h1>
-        <p class="lead">Where Invester and entraprenur create great things togenter</p>
+        <p class="lead">Where Invester and Entrepreneur create great things togenter</p>
         <hr class="my-4">
         <p>Invest beyond the ordinary</p>
-        <a class="btn btn-primary btn-lg" href="#" role="button">Become a member</a>
+        <a class="btn btn-primary btn-lg" href="register.php" role="button">Become a member</a>
     </div>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -31,7 +30,6 @@
             <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
             <a class="nav-item nav-link" href="features.php">Features</a>
             <a class="nav-item nav-link" href="pricing.php">Pricing</a>
-            <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
             </div>
         </div>
     </nav>
