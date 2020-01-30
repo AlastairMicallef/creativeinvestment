@@ -28,9 +28,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="#">Features</a>
-            <a class="nav-item nav-link" href="#">Pricing</a>
+            <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="features.php">Features</a>
+            <a class="nav-item nav-link" href="pricing.php">Pricing</a>
             <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
             </div>
         </div>
@@ -41,8 +41,8 @@
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Invester Price</h5>
-                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <p class="card-text">27 Euro per Month</p>
+                <a href="#" class="btn btn-primary">Join Now</a>
             </div>
             </div>
         </div>
@@ -50,12 +50,14 @@
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Entrepreneur Price</h5>
-                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <p class="card-text">57 Euro per Month</p>
+                <a href="#" class="btn btn-primary">Join now</a>
             </div>
             </div>
         </div>
     </div>
+
+    
  
 
 
