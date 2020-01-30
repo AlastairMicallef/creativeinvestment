@@ -28,37 +28,15 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="features.php">Features</a>
-            <a class="nav-item nav-link" href="pricing.php">Pricing</a>
+            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="#">Features</a>
+            <a class="nav-item nav-link" href="#">Pricing</a>
             <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
             </div>
         </div>
     </nav>
 
-    <div class="card-group">
-        <div class="card">
-            <img src="img/invester.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-            <h5 class="card-title">Invester</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-            </div>
-        </div>
-        <div class="card">
-            <img src="img/entrepreneur.jpg" class="card-img-top" alt="..." style="width:560px;height:375px">
-            <div class="card-body">
-            <h5 class="card-title">Entrepreneur</h5>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-            </div>
-        </div>
-        <div class="card">
-            <img src="img/features.png" class="card-img-top" alt="..." style="width:560px;height:375px">
-            <div class="card-body">
-            <h5 class="card-title">Features</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-            </div>
-        </div>
-    </div>
+    
 
 
     <footer>
