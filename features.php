@@ -15,7 +15,7 @@
 <body>
     <div class="jumbotron">
         <h1 class="display-4">Creative Investment</h1>
-        <p class="lead">Where Invester and entraprenur create great things togenter</p>
+        <p class="lead">Where Investors and Entrapreneurs create great things together</p>
         <hr class="my-4">
         <p>Invest beyond the ordinary</p>
         <a class="btn btn-primary btn-lg" href="register.php" role="button">Become a member</a>

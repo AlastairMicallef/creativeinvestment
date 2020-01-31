@@ -12,12 +12,11 @@
 <body>
 <div class="jumbotron">
         <h1 class="display-4">Creative Investment</h1>
-        <p class="lead">Where Invester and entraprenur create great things togenter</p>
+        <p class="lead">Where Investors and Entrapreneurs create great things together</p>
         <hr class="my-4">
         <p>Invest beyond the ordinary</p>
     </div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
