@@ -195,7 +195,6 @@
             <img src="img/invester.jpg" class="card-img-top" alt="..." style="width:560px;height:375px">
             <div class="card-body">
             <h5 class="card-title">Invester</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                 <a class="btn btn-primary btn-lg" href="pricing.php" role="button">Start Investing</a>
             </div>
         </div>
@@ -203,8 +202,6 @@
             <img src="img/entrepreneur.jpg" class="card-img-top" alt="..." style="width:560px;height:375px">
             <div class="card-body">
             <h5 class="card-title">Entrepreneur</h5>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                <br/>
                 <a class="btn btn-primary btn-lg" href="pricing.php" role="button">Adopt your Idea</a>
             </div>
         </div>
@@ -212,7 +209,6 @@
             <img src="img/features.png" class="card-img-top"  style="width:560px;height:375px">
             <div class="card-body">
             <h5 class="card-title">Features</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
             </div>
         </div>
     </div>
@@ -248,7 +244,7 @@
   <!-- Footer -->
   <footer class="bg-light py-5">
     <div class="container">
-      <div class="small text-center text-muted">Copyright &copy; 2019</div>
+    <p><center> Creative Investment Copyright &copy; All rights reserved. <?=date("Y")?></center></p>
     </div>
   </footer>
 
