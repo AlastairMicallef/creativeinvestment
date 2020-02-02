@@ -105,9 +105,10 @@
         </p>
 
  <a class="btn btn-primary btn-lg" href="register.php" role="button">Become a member</a>
+ <hr/>
     </div>
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -118,8 +119,8 @@
             <a class="nav-item nav-link" href="pricing.php">Pricing</a>
             </div>
         </div>
-    </nav>
-
+    </nav> -->
+  
     <div class="row row-cols-1 row-cols-md-3">
         <div class="col mb-4">
             <div class="card">
