@@ -127,6 +127,7 @@
         <div class="col-lg-8 align-self-baseline">
           <p class="text-white-75 font-weight-light mb-5">Invest beyond the ordinary</p>
           <a class="btn btn-primary btn-lg" href="register.php" role="button">Become a member</a>
+          <a class="btn btn-primary btn-lg" href="signin.php" role="button">Login</a>
         </div>
       </div>
     </div>
