@@ -75,33 +75,33 @@
         <p><img src="https://img-aws.ehowcdn.com/340x221p/photos.demandstudios.com/getty/article/244/85/200249342-001.jpg" style='width:auto; height: 600px' class="img-fluid" alt="Responsive image"></p>
        
         <h1 class="display-5">Communication</h1>
-        <p>In order to form an alliance between the entrepreneur and the investor there must be some type of Communication
-        where both of them are able to communicate iwth each other about the details needed to form the alliance 
-        in order for the investor to invest and also the entrepreneur to start the business, therefore this website
-        offers the service of communication for both of the matching entrepreneur and the investor in order to be able 
-        to communicate with eachother.   </p>
+        <p>To ally the entrepreneur and the investor there must be some type of Communication
+        where both of them can communicate with each other about the details needed to ally 
+        for the investor to invest and also the entrepreneur to start the business. In this case this website
+        offers the service of communication for both of the matching entrepreneur and the investor to be able 
+        to communicate with each other.   </p>
 
         <p><img src="https://nashkassam.com/wp-content/uploads/2018/02/make-the-tough-choice.jpg" style='width:auto; height: 600px' class="img-fluid" alt="Responsive image"></p>
 
         <h1 class="display-5">Choice</h1>
-        <p>For an entrepreneur to startup a business and an ivestor to make an investment, they must choose 
+        <p>For an entrepreneur to startup a business and an ivestor to invest, they must choose 
         the right candidate according to their required specifications including the type of market they are willing
-        to invest in or the type of market they are going to make part of when they startup their business,
-        while also the investor may want to invest a specific amount of money in order to stay within their 
-        budget. While an entrepremeur may want to select the investor who is willing to pay the required amount 
+        to invest in or the type of market they are going to make part of when they startup their business.
+        Also the investor may want to invest a specific amount of money to stay within their 
+        budget. While an entrepreneur may want to select the investor who is willing to pay the required amount 
         for the entrepreneur to start his business. Therefore thiss website provides a variety for the investor
         or the entrepreneur to choose his required partner.  </p>
 
 
         <p><img src="https://magnifyingglassesinfo.com/wp-content/uploads/2015/12/814-mW0J8TL._SL1500_.jpg" style='width:auto; height: 600px' class="img-fluid" alt="Responsive image"></p>
         <h1 class="display-5">Important details</h1>
-        <p>Investors need details when they are trying to invest in a business uch as the required budget, the amount of 
+        <p>Investors need details when they are trying to invest in a business much as the required budget, the amount of 
         shares a business is willing to give away, the type of market it forms a part . Also entrepreneurs will 
-        need details of what type of market the investor would like to invest as certsin investors might have connections
+        need details of what type of market the investor would like to invest as certain investors might have connections
         with a certain market allowing the entrepreneur to make those connections developing his business, his budget
-        and a lot of othr fine details needed in order to make a business happen before one makes a choice, therefore
+        and a lot of othr fine details needed to make a business happen before one makes a choice. Therefore
         on this website when someone is choosing the right partner, there will be all the details needed for them to 
-        choose
+        choose.
         </p>
 
  <a class="btn btn-primary btn-lg" href="register.php" role="button">Become a member</a>
@@ -126,7 +126,6 @@
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Face to face communication</h5>
-                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
             </div>
         </div>
@@ -134,7 +133,6 @@
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">In-app messanger chat</h5>
-                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
             </div>
         </div>
@@ -142,7 +140,6 @@
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">User-freadly web application</h5>
-                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
             </div>
             </div>
         </div>
@@ -150,7 +147,6 @@
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">In-depth information on investments</h5>
-                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
             </div>
         </div>
