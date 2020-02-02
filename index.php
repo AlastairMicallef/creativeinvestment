@@ -92,7 +92,7 @@
   <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
   <!-- Theme CSS - Includes Bootstrap -->
-  <link href="css/creative.min.css" rel="stylesheet">
+  <link href="css/creative.css" rel="stylesheet">
 
 </head>
 
@@ -116,6 +116,7 @@
   </nav>
 
   <!-- Masthead -->
+
   <header class="masthead">
     <div class="container h-100">
       <div class="row h-100 align-items-center justify-content-center text-center">
@@ -130,6 +131,7 @@
       </div>
     </div>
   </header>
+  
 
   <!-- About Section -->
   <section class="page-section bg-secondary" id="about">
