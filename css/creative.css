@@ -9658,7 +9658,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(66, 90, 92, 0.322) 100%), url("../img/building.jpeg");
+  background: linear-gradient(to bottom, rgba(39, 47, 63, 0.8) 0%, rgba(97, 122, 124, 0.322) 100%), url("../img/background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -9729,4 +9729,246 @@ header.masthead h1 {
 
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
+}
+*
+{
+    margin:0px;
+    padding:0px;
+}
+ul.navbar 
+{
+    background:#4a7746;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+.navbar > li > a i
+{
+    margin-right: 10px;
+    width: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.navbar > li > a:hover,.navbar > li.active > a
+{
+    background: #335230;
+}
+.navbar > li > a
+{
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+}
+.brand
+{
+    background: #3e523d;
+    color:#fff;
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding:18px 10px; 
+    font-size: 25px;
+}
+
+.brand a:hover
+{
+    background: #444;
+}
+.brand a i
+{
+    
+}
+.brand a
+{
+    padding: 5px 10px;
+    float: right;
+    box-sizing: border-box;
+    color: #fff;
+    background: #4a7746;
+}
+.hideNav
+{
+   
+    visibility: hidden;
+}
+
+@media screen and (min-width: 768px) {
+   
+    ul.navbar {
+       height: 100vh;
+        width: 80px;
+    }
+    ul.navbar li span
+    {
+        visibility: hidden;
+    }
+    ul.navbar li a i
+    {
+        font-size: 30px;
+        padding-top: 22px;
+        
+        vertical-align: middle;
+    }
+    ul.navbar li
+    {
+        text-align: center;
+    }
+    .btn-bars
+    {
+        visibility: visible;
+    }
+}
+ @media screen and (min-width: 768px) {
+    .brand
+    {
+        padding-right: 10px;
+        background: #3e523d;
+        color:#fff;
+        width: 16.666%;
+     }
+    
+    ul.navbar {
+        width: 16.666%;
+    }
+       ul.navbar.hideNav
+     {
+        width: 100px;
+        visibility: visible;
+     }
+      ul.navbar.hideNav {
+       height: 100vh;
+        width: 80px;
+    }
+    ul.navbar.hideNav li span
+    {
+        visibility: hidden;
+    }
+    ul.navbar.hideNav li a i
+    {
+        font-size: 30px;
+        padding-top: 22px;
+        
+        vertical-align: middle;
+    }
+    ul.navbar.hideNav li
+    {
+        text-align: center;
+    }
+   
+    ul.navbar.hideNav li span
+    {
+        text-align: left;
+        visibility: visible;
+    }
+     ul.navbar li span
+    {
+        text-align: left;
+        visibility: visible;
+    }
+      ul.navbar li a i
+    {
+        font-size: 18px;
+        padding-top: 0px;
+        vertical-align: baseline;
+    }
+    ul.navbar li a 
+    {
+        padding-top: 22px;
+        font-size: 18px;
+        
+    }
+    ul.navbar li
+    {
+        text-align: left;
+    }
+}
+.header
+{
+    height: 70.48px;
+    width: 100%;
+    background: #163c12;
+}
+.header-right ul
+{
+    list-style-type: none;
+    margin: 0px;padding:0px;
+}
+.header-right
+{
+    width: 83.3333%;
+    float: left;
+}
+.header-right input
+{
+    margin: 15px;
+    padding: 10px;
+    width: 400px;
+    border-radius:5px;
+    border:0px;
+    outline: none;
+}
+
+.header-right ul.navbar-right
+{
+    position: absolute;
+    top: 60px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 3px 1px #ddd;
+    width:200px;
+}
+.header-right ul.navbar-right li.active,
+.header-right ul.navbar-right li:hover
+{
+    
+    background: #f4f4f4;
+}
+.header-right ul.navbar-right li a i
+{
+    box-sizing: border-box;
+    padding: 10px;
+}
+.header-right ul.navbar-right li a
+{
+    text-decoration: none;
+    padding: 10px 10px;
+    display: block;
+    color: #333;
+}
+.blog-user
+{
+    float: right;
+}
+.blog-user a.avator img 
+{
+    float: right;
+}
+.avator 
+{   
+    height: 55px;
+    width: 55px;
+    margin-top: 5px;
+    margin-right: 15px;
+    float: right;
+    
+}
+.avator img
+{
+    border-radius: 100px;
+   height: 90%;
+    border:4px solid #fff; 
+}
+
+.header-right ul.navbar-right li
+{
+    z-index: 9999;            
+    border-bottom: 1px solid #e1e1e1;
+    background: #fff;
+    
+}
+.hidden
+{
+    visibility: hidden;
 }
