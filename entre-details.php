@@ -171,7 +171,7 @@
                         </div>
                         <hr/>
 
-                        <a class="btn btn-primary btn-lg" href="index.php" role="button">Submit</a>
+                        <a class="btn btn-primary btn-lg" href="messaging.php" role="button">Submit</a>
                     </form>
                 </div>
             </div>
