@@ -1011,12 +1011,8 @@
             <div class="row h-100 align-items-center justify-content-center text-center">
                 <div class="col-lg-10 align-self-end">
                     <h2 class="text-uppercase text-white font-weight-bold">Matching Entrepreneurs in your area</h2>
-                    <hr class="divider my-4">
                 </div>
                 <div class="col-lg-8 align-self-baseline">
-
-
-
                     <div class="container">
                         <div class="stepwizard">
                             <div class="stepwizard-row setup-panel">

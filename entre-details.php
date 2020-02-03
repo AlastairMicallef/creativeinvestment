@@ -129,7 +129,6 @@
             <div class="row h-100 align-items-center justify-content-center text-center">
                 <div class="col-lg-10 align-self-end">
                     <h1 class="text-uppercase text-white font-weight-bold">Enter your information</h1>
-                    <hr class="divider my-4">
                 </div>
 
                 <div class="container">
@@ -169,7 +168,7 @@
                             <input type="file" class="custom-file-input" id="customFile">
                             <label class="custom-file-label" for="customFile">Choose Profile Picture</label>
                         </div>
-                        <hr/>
+                        <hr />
 
                         <a class="btn btn-primary btn-lg" href="messaging.php" role="button">Submit</a>
                     </form>

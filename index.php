@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,7 +23,7 @@
 
   <!-- Theme CSS - Includes Bootstrap -->
   <link href="css/creative.css" rel="stylesheet">
- </head>
+</head>
 
 <body id="page-top">
 
@@ -41,22 +39,22 @@
           <a class="nav-item nav-link navbar-brand active js-scroll-trigger" href="index.php">Home <span class="sr-only">(current)</span></a>
           <a class="nav-item nav-link navbar-brand js-scroll-trigger" href="features.php">Features</a>
           <a class="nav-item nav-link navbar-brand js-scroll-trigger" href="pricing.php">Pricing</a>
-       
 
-      <div class="header-right"> 
-                         <div class="blog-user">
-                            <a href="#" class="avator"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgV1cokAhUc_f0ljJt88_Jf4K9RaRgZSvGuUCBV6Up4SS9wo--"></a>
-                         
-                          <ul class="navbar-right hidden">
-                                <li class="active"><a href="#"><i class="fa fa-user"></i><span>Profile </span></a></li>
-                                <li><a href="messaging.php"><i class="fa fa-envelope"></i><span>Message</span> </a></li>
-                    
-                               
-                        </ul>
-                         </div>
-                         </div>
-                    </div>
-                    </ul>
+
+          <div class="header-right">
+            <div class="blog-user">
+              <a href="#" class="avator"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgV1cokAhUc_f0ljJt88_Jf4K9RaRgZSvGuUCBV6Up4SS9wo--"></a>
+
+              <ul class="navbar-right hidden">
+                <li class="active"><a href="#"><i class="fa fa-user"></i><span>Profile </span></a></li>
+                <li><a href="messaging.php"><i class="fa fa-envelope"></i><span>Message</span> </a></li>
+
+
+              </ul>
+            </div>
+          </div>
+      </div>
+      </ul>
     </div>
   </nav>
 
@@ -67,7 +65,6 @@
       <div class="row h-100 align-items-center justify-content-center text-center">
         <div class="col-lg-10 align-self-end">
           <h1 class="text-uppercase text-white font-weight-bold">Where Investors and Entrepenuers create great things together</h1>
-          <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
           <p class="text-white-75 font-weight-light mb-5">Invest beyond the ordinary</p>
@@ -97,7 +94,6 @@
     <div style="text-center">
       <div class="container ">
         <h2 class="text-center mt-0">Service</h2>
-        <hr class="divider my-4">
         <div class="row">
           <div class="col-lg-3 col-md-6 text-center">
             <div class="mt-5">
@@ -133,47 +129,47 @@
   </section>
 
   <!-- Portfolio Section -->
-    <div class="col-md-12">
-      <div class="container-fluid p-0">
-        <div class="row ">
+  <div class="col-md-12">
+    <div class="container-fluid p-0">
+      <div class="row ">
 
-          <div class="col-md-4">
-            <div class="card-group">
-              <div class="card">
-                <img data-tilt src="img/invester.jpg" style="max-width: 450px ; max-height: 200px" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Invester</h5>
-                  <a class="btn btn-primary btn-lg" href="pricing.php" role="button">Start Investing</a>
-                </div>
-              </div>
-            </div>
-            </div>
-
-            <div class="col-md-4">
-              <div class="card">
-              <span data-tilt>   <img src="img/entrepreneur.jpg" style="max-width: 450px ;"class="card-img-top" alt="..."></span>
-                <div class="card-body">
-                  <h5 class="card-title">Entrepreneur</h5>
-                  <a class="btn btn-primary btn-lg" href="pricing.php" role="button">Adopt your Idea</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-
-              <div class="card">
-              <span data-tilt><img src="img/features.png" class="card-img-top" style="max-width: 450px ;"></span>
-                <div class="card-body">
-                  <h5 class="card-title">Features</h5>
-                  <a class="btn btn-primary btn-lg" href="features.php" role="button">Go to features</a>
-
-                </div>
+        <div class="col-md-4">
+          <div class="card-group">
+            <div class="card">
+              <img data-tilt src="img/invester.jpg" style="max-width:450px; max-height:200px" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Invester</h5>
+                <a class="btn btn-primary btn-lg" href="pricing.php" role="button">Start Investing</a>
               </div>
             </div>
           </div>
-
         </div>
 
+        <div class="col-md-4">
+          <div class="card">
+            <span data-tilt> <img src="img/entrepreneur.jpg" style="max-width: 450px ;" class="card-img-top" alt="..."></span>
+            <div class="card-body">
+              <h5 class="card-title">Entrepreneur</h5>
+              <a class="btn btn-primary btn-lg" href="pricing.php" role="button">Adopt your Idea</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+
+          <div class="card">
+            <span data-tilt><img src="img/features.png" class="card-img-top" style="max-width: 450px ;"></span>
+            <div class="card-body">
+              <h5 class="card-title">Features</h5>
+              <a class="btn btn-primary btn-lg" href="features.php" role="button">Go to features</a>
+
+            </div>
+          </div>
+        </div>
       </div>
+
+    </div>
+
+  </div>
   </section>
 
   <!-- Contact Section -->
@@ -182,7 +178,6 @@
       <div class="row justify-content-center">
         <div class="col-lg-8 text-center">
           <h2 class="mt-0">Let's Get In Touch!</h2>
-          <hr class="divider my-4">
           <p class="text-muted mb-5">Ready to start your next step in investment with us? Give us a call or send us an email and we will get back to you as soon as possible!</p>
         </div>
       </div>
@@ -199,6 +194,8 @@
       </div>
     </div>
     </div>
+  </section>
+
 
   <!-- Footer -->
   <footer class="bg-light py-5">
@@ -208,30 +205,31 @@
       </p>
     </div>
   </footer>
-
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Plugin JavaScript -->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-  <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-
-  <!-- Custom scripts for this template -->
-  <script src="js/creative.min.js"></script>
-  <script src="js/tilt.jquery.js"></script>
-  <script>
-            $(function(){
-                $(".btn-bars").click(function(){
-                    $(".navbar").toggleClass("hideNav","slow");
-                });
-                $(".avator").click(function(){
-                    $(".navbar-right").toggleClass("hidden","slow");
-                });
-            });
-        </script>
 </body>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="js/creative.min.js"></script>
+<script src="js/tilt.jquery.js"></script>
+<script>
+  $(function() {
+    $(".btn-bars").click(function() {
+      $(".navbar").toggleClass("hideNav", "slow");
+    });
+    $(".avator").click(function() {
+      $(".navbar-right").toggleClass("hidden", "slow");
+    });
+  });
+</script>
+
 
 </html>

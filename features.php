@@ -27,10 +27,10 @@
 
 <body id="page-top">
 
-   <!-- Navigation -->
-   <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
     <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="index.php">Creative Investment</a>
+      <a class="navbar-brand js-scroll-trigger" href="index.php">Creative Investment</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -50,7 +50,6 @@
       <div class="row h-100 align-items-center justify-content-center text-center">
         <div class="col-lg-10 align-self-end">
           <h1 class="text-uppercase text-white font-weight-bold">Features</h1>
-          <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
           <p class="text-white-75 font-weight-light mb-5"></p>
@@ -107,18 +106,6 @@
             <hr />
           </div>
 
-          <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="features.php">Features</a>
-            <a class="nav-item nav-link" href="pricing.php">Pricing</a>
-            </div>
-        </div>
-    </nav> -->
 
           <div class="row row-cols-1 row-cols-md-3">
             <div class="col mb-4">

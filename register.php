@@ -16,102 +16,102 @@
   <link href="css/creative.css " rel="stylesheet">
 
   <style>
-        .searchable-container {
-            margin: 20px 0 0 0
-        }
+    .searchable-container {
+      margin: 20px 0 0 0
+    }
 
-        .searchable-container label.btn-default.active {
-            background-color: #007ba7;
-            color: #FFF
-        }
+    .searchable-container label.btn-default.active {
+      background-color: #007ba7;
+      color: #FFF
+    }
 
-        .searchable-container label.btn-default {
-            width: 90%;
-            border: 1px solid #efefef;
-            margin: 5px;
-            box-shadow: 5px 8px 8px 0 #ccc;
-        }
+    .searchable-container label.btn-default {
+      width: 90%;
+      border: 1px solid #efefef;
+      margin: 5px;
+      box-shadow: 5px 8px 8px 0 #ccc;
+    }
 
-        .searchable-container label .bizcontent {
-            width: 100%;
-        }
+    .searchable-container label .bizcontent {
+      width: 100%;
+    }
 
-        .searchable-container .btn-group {
-            width: 90%
-        }
+    .searchable-container .btn-group {
+      width: 90%
+    }
 
-        .searchable-container .btn span.glyphicon {
-            opacity: 0;
-        }
+    .searchable-container .btn span.glyphicon {
+      opacity: 0;
+    }
 
-        .searchable-container .btn.active span.glyphicon {
-            opacity: 1;
-        }
+    .searchable-container .btn.active span.glyphicon {
+      opacity: 1;
+    }
 
-        .col-lg-3 {
-            max-width: 100% !important;
-        }
+    .col-lg-3 {
+      max-width: 100% !important;
+    }
 
-        .btn-default {
-            background-color: white;
-        }
+    .btn-default {
+      background-color: white;
+    }
 
-        .stepwizard-step p {
-            margin-top: 10px;
-        }
+    .stepwizard-step p {
+      margin-top: 10px;
+    }
 
-        .stepwizard-row {
-            display: table-row;
-        }
+    .stepwizard-row {
+      display: table-row;
+    }
 
-        .stepwizard {
-            display: table;
-            width: 100%;
-            position: relative;
-        }
+    .stepwizard {
+      display: table;
+      width: 100%;
+      position: relative;
+    }
 
-        .stepwizard-step button[disabled] {
-            opacity: 1 !important;
-            filter: alpha(opacity=100) !important;
-        }
+    .stepwizard-step button[disabled] {
+      opacity: 1 !important;
+      filter: alpha(opacity=100) !important;
+    }
 
-        .stepwizard-row:before {
-            top: 14px;
-            bottom: 0;
-            position: absolute;
-            content: " ";
-            width: 100%;
-            height: 1px;
-            background-color: #ccc;
-            z-order: 0;
+    .stepwizard-row:before {
+      top: 14px;
+      bottom: 0;
+      position: absolute;
+      content: " ";
+      width: 100%;
+      height: 1px;
+      background-color: #ccc;
+      z-order: 0;
 
-        }
+    }
 
-        .stepwizard-step {
-            display: table-cell;
-            text-align: center;
-            position: relative;
-        }
+    .stepwizard-step {
+      display: table-cell;
+      text-align: center;
+      position: relative;
+    }
 
-        .btn-circle {
-            width: 30px;
-            height: 30px;
-            text-align: center;
-            padding: 6px 0;
-            font-size: 12px;
-            line-height: 1.428571429;
-            border-radius: 15px;
-        }
-    </style>
+    .btn-circle {
+      width: 30px;
+      height: 30px;
+      text-align: center;
+      padding: 6px 0;
+      font-size: 12px;
+      line-height: 1.428571429;
+      border-radius: 15px;
+    }
+  </style>
 
 
 </head>
 
 <body>
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
     <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="index.php">Creative Investment</a>
+      <a class="navbar-brand js-scroll-trigger" href="index.php">Creative Investment</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -129,27 +129,28 @@
       <div class="row h-100 align-items-center justify-content-center text-center">
         <div class="col-lg-10 align-self-end">
           <h1 class="text-uppercase text-white font-weight-bold">Register</h1>
-          <hr class="divider my-4">
+          
         </div>
+        
 
         <div class="container">
-                    <div class="stepwizard">
-                        <div class="stepwizard-row setup-panel">
-                            <div class="stepwizard-step">
-                                <a href="#step-1" type="button" class="btn btn-primary btn-circle" disabled="disabled">1</a>
-                                <p style="color: white;">Step 1</p>
-                            </div>
-                            <div class="stepwizard-step">
-                                <a href="#step-2" type="button" class="btn btn-default btn-circle" disabled="disabled">2</a>
-                                <p style="color: white;">Step 2</p>
-                            </div>
-                            <div class="stepwizard-step">
-                                <a href="#step-3" type="button" class="btn btn-default btn-circle" disabled="disabled">3</a>
-                                <p style="color: white;">Step 3</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+          <div class="stepwizard">
+            <div class="stepwizard-row setup-panel">
+              <div class="stepwizard-step">
+                <a href="#step-1" type="button" class="btn btn-primary btn-circle" disabled="disabled">1</a>
+                <p style="color: white;">Step 1</p>
+              </div>
+              <div class="stepwizard-step">
+                <a href="#step-2" type="button" class="btn btn-default btn-circle" disabled="disabled">2</a>
+                <p style="color: white;">Step 2</p>
+              </div>
+              <div class="stepwizard-step">
+                <a href="#step-3" type="button" class="btn btn-default btn-circle" disabled="disabled">3</a>
+                <p style="color: white;">Step 3</p>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div class="col-lg-8 align-self-baseline">
           <form action="/action_page.php">
@@ -180,12 +181,6 @@
     <hr />
 
   </header>
-
-
-
-
-
-
   <footer>
     <p>
       <center> Creative Investment Copyright &copy; All rights reserved. <?= date("Y") ?></center>
